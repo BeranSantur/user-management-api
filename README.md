@@ -15,3 +15,5 @@ I used spring boot for this back end application. And used sql2o library to conn
 for documentation purposes. 
 If I need to list them they are,
 java, spring boot , spring web, spring data, sql2o, mysql database, swagger 3 
+
+![user_mng_api_ss](https://user-images.githubusercontent.com/65870162/126631842-c5641d59-48db-4cd5-87bf-bf42be8cb409.jpg)
