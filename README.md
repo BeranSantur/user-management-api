@@ -1,14 +1,14 @@
 USER MANAGEMENT API
 
 --What is its function
-This application is a back-end app for a user management website. It does necessary crud operations via connection local 
+This application is a back-end app for a user management website. It does necessary crud operations via connecting the local 
 mysql database. 
 
 --How to run this applicaiton
 In order to run this application you need to install mysql to your computer if you don't have it. After installation 
-You have to setup database on your local device. You can follow instructions. in user-management-api -> src -> main -> 
-resources -> sql_instructions. Also you need to create your own application.yaml under resources and enter there
-your name user and required info.
+You have to setup database on your local device. You can follow the instructions on .sql file . in user-management-api -> src -> main -> 
+resources -> sql_instructions. Also you need to create your own application.yaml under resources and enter there your info to connect local 
+database.
 
 --Tech stack
 I used spring boot for this back end application. And used sql2o library to connect to database. Also I used swagger 3
